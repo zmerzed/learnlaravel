@@ -1,7 +1,7 @@
 <!doctype html>
 <html lang="en">
 <head>
-	<meta http-equiv="refresh" content="4">
+	<meta http-equiv="refresh" content="15">
 	<meta charset="UTF-8">
 	<link rel="stylesheet" href="/css/bootstrap/bootstrap.min.css">
 	<title>Communities</title>
